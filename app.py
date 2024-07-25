@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 import threading
 import telebot
 
-bot_token = '7473754539:AAH8xH6gb3Fkq5OuOcUuEp_8CPYGprCaRhQ'
+bot_token = '7430761123:AAHpMNxAufTLXHmVb1pNCXElT6OKsKAarRw'
 bot = telebot.TeleBot(bot_token)
 user_data = {}
 allowed_users = ['7293592951']
